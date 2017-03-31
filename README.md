@@ -58,7 +58,6 @@ Just download the app to your android device. After a brief signup form, pick an
 
 ### Other resource ###
 
-
 Check out our sweet initial press release ![PRESS-RELEASE](PRESS-RELEASE.md)
 
 Or if you would like to contribute please read this =>![CONTRIBUTING.md](CONTRIBUTING.md)
