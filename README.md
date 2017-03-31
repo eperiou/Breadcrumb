@@ -45,16 +45,16 @@ Just download the app to your android device. After a brief signup form, pick an
 ---
 
 ## Wireframe ##
-![wireframe](wireframe.png)
+![wireframe](www/img/wireframe.png)
 
 ## Tech Stack ##
-![techstack](techstack.png)
+![techstack](www/img/techstack.png)
 
 ## Architecture ##
-![service-architecture](servicearchitecture.png)
+![service-architecture](www/img/servicearchitecture.png)
 
 ## Database Layout ##
-![Database](database.png)
+![Database](www/img/database.png)
 
 ### Other resource ###
 
