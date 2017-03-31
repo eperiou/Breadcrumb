@@ -18,7 +18,6 @@ Each trail will have multiple stop points for travelers to experience. The user 
 6. [Architecture](#Architecture)
 7. [Database Layout](#Database Layout)
 
-
 ----
 ## The team ##
 
@@ -57,7 +56,6 @@ Just download the app to your android device. After a brief signup form, pick an
 ![Database](www/img/database.png)
 
 ### Other resource ###
-
 
 Check out our sweet initial press release ![PRESS-RELEASE](PRESS-RELEASE.md)
 
