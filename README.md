@@ -1,4 +1,4 @@
-![wireframe](logo.png)
+![wireframe](www/img/logo.png)
 # Breadcrumb
 
 ### About Breadcrumb
