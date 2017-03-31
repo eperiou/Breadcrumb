@@ -1,4 +1,4 @@
-![wireframe](www/img/logo.png)
+![wireframe](logo.png)
 # Breadcrumb
 
 ### About Breadcrumb
@@ -17,6 +17,7 @@ Each trail will have multiple stop points for travelers to experience. The user 
 5. [Tech Stack](#Tech-Stack)
 6. [Architecture](#Architecture)
 7. [Database Layout](#Database Layout)
+
 
 ----
 ## The team ##
