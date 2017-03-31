@@ -58,6 +58,10 @@ Each trail will have multiple stop points for travelers to experience. The user 
 
 ### Other resource ###
 
-Check out our sweet initial press release ![PRESS-RELEASE](PRESS-RELEASE.md)
+Check out our sweet initial press release ![PRESS-RELEASE.md](PRESS-RELEASE.md)
 
-Or if you would like to contribute please read this =>![CONTRIBUTING](CONTRIBUTING.md)
+Or if you would like to contribute please read this =>![CONTRIBUTING.md](CONTRIBUTING.md)
+
+### Roadmap
+
+Come pour a little syrup in the waffle [here](https://github.com/real-DEAL/Breadcrumb/issues)
