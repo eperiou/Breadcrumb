@@ -57,10 +57,8 @@ Just download the app to your android device. After a brief signup form, pick an
 
 ### Other resource ###
 
-Check out our sweet initial press release ![PRESS-RELEASE.md](PRESS-RELEASE.md)
-
-Or if you would like to contribute please read this =>![CONTRIBUTING.md](CONTRIBUTING.md)
-
-### Roadmap
-
 Come pour a little syrup in the waffle [here](https://github.com/real-DEAL/Breadcrumb/issues)
+
+Check out our sweet initial press release ![PRESS-RELEASE](PRESS-RELEASE.md)
+
+Or if you would like to contribute please read this =>![CONTRIBUTING](CONTRIBUTING.md)
