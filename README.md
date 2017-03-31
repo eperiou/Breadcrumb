@@ -16,11 +16,11 @@ Each trail will have multiple stop points for travelers to experience. The user 
 4. [Wireframe](#Wireframe)
 5. [Tech Stack](#Tech-Stack)
 6. [Architecture](#Architecture)
-7. [Database Layout](#Database Layout)
+7. [Database Layout](#Database-Layout)
 
 
 ----
-## The team ##
+## The team
 
 - **Product owner**: [Eric Periou](https://github.com/eperiou/)
 - **Scrum Master**: [Olivia Sabo-Rush](https://github.com/livrush/)
@@ -30,7 +30,7 @@ Each trail will have multiple stop points for travelers to experience. The user 
 
 ----------
 
-## What is Breadcrumb? ##
+## What is Breadcrumb?
 
 Breadcrumb is designed for the adventurer in all of us. Whether you want to get out and have a locals provided tour, a virtual scavenger hunt, or take in an exciting interactive experience you are just a few clicks away from taking part in an exciting adventure.
 
@@ -38,25 +38,25 @@ Using geolocation and geofencing, the user receives hints and a map to ‘crumbs
 
 Breadcrumb enhances the tourist experience by providing an avenue of expression that enhances a usual walk and see experience. Anyone from tour guides, local musicians, theatre troupes and the general user have the tools to make an immersive and fun experience.
 
-## How to Get Started ##
+## How to Get Started
 
 Just download the app to your android device. After a brief signup form, pick an adventure and follow the crumbs for a fun filled Trek through the city.
 
 ---
 
-## Wireframe ##
+## Wireframe
 ![wireframe](www/img/wireframe.png)
 
-## Tech Stack ##
+## Tech Stack
 ![techstack](www/img/techstack.png)
 
-## Architecture ##
+## Architecture
 ![service-architecture](www/img/servicearchitecture.png)
 
-## Database Layout ##
+## Database Layout
 ![Database](www/img/database.png)
 
-### Other resource ###
+### Other resource 
 
 
 Check out our sweet initial press release ![PRESS-RELEASE](PRESS-RELEASE.md)
