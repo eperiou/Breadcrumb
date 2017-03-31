@@ -32,15 +32,15 @@ Each trail will have multiple stop points for travelers to experience. The user 
 
 ## What is Breadcrumb? ##
 
-		: Breadcrumb is designed for the adventurer in all of us. Whether you want to get out and have a locals provided tour, a virtual scavenger hunt, or take in an exciting interactive experience you are just a few clicks away from taking part in an exciting adventure.
+Breadcrumb is designed for the adventurer in all of us. Whether you want to get out and have a locals provided tour, a virtual scavenger hunt, or take in an exciting interactive experience you are just a few clicks away from taking part in an exciting adventure.
 
-		: Using geolocation and geofencing, the user receives hints and a map to ‘crumbs’ navigating them through an augmented tour of their surroundings. Crumblayer’s can leave clues, videos, and images to both guide and reward the user; facilitating a fun an interactive experience.
+Using geolocation and geofencing, the user receives hints and a map to ‘crumbs’ navigating them through an augmented tour of their surroundings. Crumblayer’s can leave clues, videos, and images to both guide and reward the user; facilitating a fun an interactive experience.
 
-		: Breadcrumb enhances the tourist experience by providing an avenue of expression that enhances a usual walk and see experience. Anyone from tour guides, local musicians, theatre troupes and the general user have the tools to make an immersive and fun experience.
+Breadcrumb enhances the tourist experience by providing an avenue of expression that enhances a usual walk and see experience. Anyone from tour guides, local musicians, theatre troupes and the general user have the tools to make an immersive and fun experience.
 
 ## How to Get Started ##
 
-		: Just download the app to your android device. After a brief signup form, pick an adventure and follow the crumbs for a fun filled Trek through the city.
+Just download the app to your android device. After a brief signup form, pick an adventure and follow the crumbs for a fun filled Trek through the city.
 
 ---
 
