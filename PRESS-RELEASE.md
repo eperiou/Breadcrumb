@@ -2,7 +2,7 @@
 ###	Breadcrumb
 
 ## Heading ##
-Breadcrumbs
+Breadcrumb
 
 ## Scope ##
 This market is designed for the adventurer in all of us. Whether you want to get out and have a locals provided tour, or take in an exciting interactive experience you’re just a few clicks away from taking part in an exciting adventure.
